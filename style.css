@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: auto;
+}
+
+.footer {
+    background-color: #91307C;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #583193;
+    color: floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+
+.navbar-dark {
+    background-color: #91307C;
+    height: 50px;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    background-color:#753192;
+}
+
+.service_area .single_service {
+    border: 1px solid black;
+    padding: 45px 30px;
+    margin-bottom: 30px;
+}
+
+.service_area .single_service h3 {
+    color: #DB9A64;
+    margin-top: 22px;
+    margin-bottom: 11px;
+    font-weight: 400;
+}
+
+.service_area .single_service p {
+    font-size: 16px;
+    color: #C9C9C9;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.section_title{
+    color: ghostwhite;
+}
+
+.download_area .progress_skills .single_progress  {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
